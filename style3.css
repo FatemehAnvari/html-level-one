@@ -1,0 +1,16 @@
+
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+
+.flex-container > div {
+  margin: 30px 1px 1px 3px;
+  padding: 20px;
+  height: 500px;
+  width: 50%;
+
+}
+
+P{font-family: Bradley Hand;
+font-weight: 500;}
